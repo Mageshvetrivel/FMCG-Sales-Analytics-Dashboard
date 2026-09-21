@@ -116,7 +116,7 @@ The dashboard is designed to help identify:
 
 ### Main Dashboard
 
-![FMCG Sales Dashboard](screenshots/dashboard-page-1.png.png)
+![FMCG Sales Dashboard](screenshots/dashboard-page-1.png)
 
 ---
 
